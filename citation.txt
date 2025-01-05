@@ -1,0 +1,10 @@
+@article{REPO378,
+    author = "aff >",
+    issn = "2168-7161",
+    journal = "IEEE Transactions on Cloud Computing",
+    number = "99",
+    pages = "1-1",
+    title = "{A Queue Waiting Cost-Aware Control Model for Large Scale Heterogeneous Cloud Datacenter}",
+    volume = "PP",
+    year = "2022"
+}
